@@ -1,6 +1,6 @@
 # NFT Video Downloader
 
-Ce repository permet de télécharger automatiquement les vidéos et miniatures la collection FullHouseNFT.
+Ce repository permet de télécharger automatiquement les vidéos et miniatures de la collection FullHouseNFT.
 
 ## Fonctionnalités
 
