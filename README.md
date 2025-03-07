@@ -131,7 +131,7 @@ sudo apt-get install ffmpeg
 
 - Les vidéos dans le dossier `assets/`
 - Les miniatures avec le suffixe `_thumb.jpg`
-- Un fichier `download_results.json` avec les statistiques détaillées
+- Un fichier `results.json` avec les statistiques détaillées
 
 ## Résolution des problèmes courants
 
